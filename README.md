@@ -2,9 +2,9 @@
 
 ## Overview
 This repository contains the **code and data** used for the modeling analysis presented in the paper:  
-**“Mapping the sequence and structural logic of DNA glycosylase recognition of cytosine deamination lesions”**. 
+**“Mapping DNA glycosylase binding across lesion sequence contexts reveals extended sequence and structural recognition logic”**. 
 
-Specifically, it supports the **"Specificity defined by base identity and dependencies"** sections, where we model how individual bases and their interactions in flanking regions influence TDG and UDG enzyme binding.
+Specifically, it supports the **"Comprehensive mapping of flank preferences reveals that damage recognition extends beyond adjacent positions"** sections, where we model how individual bases and their interactions in flanking regions influence TDG and UDG enzyme binding.
 
 ---
 
@@ -30,13 +30,6 @@ Folder containing the **processed binding data** (see Methods section of the man
    `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `logomaker`, `scipy`, `statsmodels`
 3. **Open and run each notebook** independently.  
    The notebooks are self-contained and will display figures directly.
-
-
----
-
-## Citation
-If you use these notebooks or data in your own work, please cite: 
-> Levy, N. *et al.* “Mapping the sequence and structural logic of DNA glycosylase recognition of cytosine deamination lesions” (2026).
 
 ---
 
