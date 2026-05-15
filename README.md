@@ -4,7 +4,7 @@
 This repository contains the **code and data** used for the modeling analysis presented in the paper:  
 **“Mapping DNA glycosylase binding across lesion sequence contexts reveals extended sequence and structural recognition logic”**. 
 
-Specifically, it supports the **"Comprehensive mapping of flank preferences reveals that damage recognition extends beyond adjacent positions"** sections, where we model how individual bases and their interactions in flanking regions influence TDG and UDG enzyme binding.
+Specifically, it supports the **"Comprehensive mapping of flank preferences reveals that damage recognition extends beyond adjacent positions"** and **"Context-dependent damage recognition includes non-additive and structural components"** sections, where we model how individual bases and their interactions in flanking regions influence MBD4, TDG and UDG enzyme binding.
 
 ---
 
